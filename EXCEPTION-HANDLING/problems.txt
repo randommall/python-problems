@@ -1,0 +1,66 @@
+Beginner Problems:
+
+1
+Write a program that attempts to divide a number by zero and catches the ZeroDivisionError exception.
+
+2
+Create a program that takes user input and handles the ValueError that occurs if the input is not a valid integer.
+
+3
+Implement a program that opens a file, handles the FileNotFoundError, and prints an error message if the file does not exist.
+
+4
+Write a program that tries to access a non-existent key in a dictionary and catches the KeyError.
+
+5
+Create a program that attempts to convert a string to an integer using the int() function and handles the ValueError if the conversion fails.
+
+6
+Implement a program that reads a file and handles the PermissionError that may occur if the file is not accessible.
+
+7
+Write a program that attempts to divide two numbers, catches any exceptions that may occur, and prints an error message.
+
+8
+Create a program that asks the user for a file name, attempts to open the file, and handles both FileNotFoundError and PermissionError.
+
+9
+Implement a program that attempts to access an element in a list at an index that is out of bounds, and catches the IndexError.
+
+10
+Write a program that attempts to convert a string to a float and handles the ValueError if the conversion fails.
+
+Intermediate Problems:
+
+1
+Create a program that reads a CSV file, handles FileNotFoundError, and displays a user-friendly error message if the file is not found.
+
+
+2
+Implement a program that calculates the average of a list of numbers, handles ZeroDivisionError, and prints an appropriate message.
+
+3
+Write a program that attempts to connect to a website using the requests library, handles potential ConnectionError, and displays an error message.
+
+4
+Create a program that reads a configuration file, handles FileNotFoundError and PermissionError, and prints an error message for each case.
+
+5
+Implement a program that attempts to open a file and handle both FileNotFoundError and PermissionError separately with unique error messages.
+
+6
+Write a program that reads user input and handles both TypeError (when input is not an integer) and ZeroDivisionError (when dividing by zero).
+
+7
+Create a program that attempts to access an element in a list, handles both IndexError and ValueError, and displays appropriate error messages.
+
+8
+Implement a program that calculates the square root of a number and handles ValueError if the number is negative, providing an error message.
+
+9
+Write a program that reads a JSON file, handles FileNotFoundError, and prints a message if the file is not found.
+
+
+10
+Create a program that reads data from an external database, handles any database-related exceptions (e.g., ConnectionError, TimeoutError), and prints informative error messages.
+

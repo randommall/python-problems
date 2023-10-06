@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Write a Python program that uses the threading module to create two threads that print "Hello, World!" concurrently.
+
+2
+Implement a program that uses two threads to calculate the sum of numbers from 1 to 100 in parallel and prints the result.
+
+3
+Create a Python script that demonstrates a race condition by having multiple threads increment a shared counter variable.
+
+4
+Write a program that uses multithreading to download multiple images from the internet concurrently and save them to disk.
+
+5
+Implement a simple producer-consumer scenario using threads, where one thread generates data, and another consumes it.
+
+6
+Create a program that uses threads to compute the factorial of a number in parallel.
+
+7
+Write a Python script that demonstrates thread synchronization using threading.Lock to prevent race conditions.
+
+8
+Implement a program that uses threads to perform matrix multiplication on two large matrices concurrently.
+
+9
+Create a Python script that uses threads to simulate a simple bank account with deposits and withdrawals.
+
+10
+Write a program that demonstrates thread priority by creating threads with different priority levels and observing their execution order.
+
+
+Intermediate Problems:
+
+1
+Implement a Python program that uses the concurrent.futures module to parallelize a CPU-bound task, such as calculating Fibonacci numbers.
+
+2
+Create a program that uses the multiprocessing module to perform parallel processing on multiple CPU cores to speed up a task.
+
+3
+Write a Python script that demonstrates thread pooling using the ThreadPoolExecutor from the concurrent.futures module.
+
+4
+Implement a program that uses threads to perform web scraping concurrently on multiple web pages and gather data.
+
+5
+Create a Python script that uses the asyncio library to make asynchronous HTTP requests to multiple URLs and retrieve data.
+
+6
+Write a program that demonstrates inter-thread communication using a thread-safe queue to pass data between producer and consumer threads.
+
+7
+Implement a Python program that uses the asyncio library to create a simple chat server that handles multiple clients concurrently.
+
+8
+Create a program that uses a thread pool to process a batch of image files concurrently, such as resizing and watermarking.
+
+9
+Write a Python script that uses the concurrent.futures module to parallelize a task that involves reading and processing multiple files.
+
+10
+Implement a program that demonstrates thread coordination using semaphores to control access to shared resources in a multithreaded environment.
+

@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Create a Person class with attributes for name and age. Initialize an object with a name and age, and add a method to print their details.
+
+2
+Write a Rectangle class with attributes for length and width. Add methods to calculate the area and perimeter of a rectangle.
+
+3
+Implement a Circle class with a radius attribute and methods to calculate the area and circumference of a circle.
+
+4
+Create a Student class with attributes for name and grades. Add a method to calculate the average grade.
+
+5
+Write a Car class with attributes for make, model, and year. Add a method to print the car's information.
+
+6
+Implement a BankAccount class with attributes for account number and balance. Add methods for deposit and withdrawal.
+
+7
+Create a Book class with attributes for title, author, and publication year. Add a method to print the book's details.
+
+8
+Write a Rectangle class with attributes for length and width. Add a method to check if it's a square.
+
+9
+Implement a Person class with attributes for name and address. Add methods to update the address and print the person's details.
+
+10
+Create a Triangle class with attributes for three sides. Add a method to check if it's a valid triangle.
+
+Intermediate Problems:
+
+1
+Write a BankAccount class with attributes for account number, balance, and owner (a Person object). Add methods for deposit and withdrawal.
+
+2
+Implement a Library class with attributes for books and patrons. Add methods to check out and return books.
+
+
+3
+Create a Point class with attributes for x and y coordinates. Add methods to calculate the distance between two points.
+
+4
+Write a Student class with attributes for name and a list of courses. Add methods to add and remove courses.
+
+5
+Implement a Person class with attributes for name and age. Create a subclass called Student with a major attribute and a method to display student details.
+
+6
+Create a Bank class that manages multiple bank accounts. Add methods to open new accounts and calculate the total balance.
+
+7
+Write a Contact class with attributes for name and email. Implement a ContactList class that can add and remove contacts.
+
+8
+Implement a Shape class with a subclass for Circle and Rectangle. Add methods to calculate area and perimeter for each shape.
+
+9
+Create a ToDoList class with attributes for tasks. Add methods to add, remove, and display tasks.
+
+10
+Implement a Triangle class with attributes for three sides. Add methods to calculate the area and check if it's an equilateral triangle.
+

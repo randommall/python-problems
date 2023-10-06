@@ -1,0 +1,66 @@
+Beginner Problems:
+
+1
+Write a test case that checks if the len() function correctly counts the number of elements in a list.
+
+2
+Create a test case to verify if adding two positive integers returns the correct sum.
+
+3
+Write a test case for a function that checks if a string is uppercase.
+
+4
+Implement a test case for a function that finds the maximum value in a list.
+
+5
+Create a test case for a function that checks if a number is prime.
+
+6
+Write a test case for a function that calculates the area of a rectangle.
+
+7
+Implement a test case for a function that checks if a given list is sorted in ascending order.
+
+8
+Create a test case for a function that calculates the square root of a number.
+
+9
+Write a test case for a function that converts temperature from Celsius to Fahrenheit.
+
+10
+Implement a test case for a function that checks if a string contains only alphabetic characters.
+
+
+Intermediate Problems:
+
+
+1
+Write a test suite with multiple test cases to test a complex function or class.
+
+2
+Create a test case for a database interaction function to check if data can be inserted and retrieved correctly.
+
+3
+Implement a test case for a function that checks if a given email address is valid.
+
+4
+Write a test case for a function that sorts a list of dictionaries based on a specific key.
+
+5
+Create a test case for a class that represents a linked list to ensure proper node insertion and deletion.
+
+6
+Implement a test case for a function that calculates the factorial of a number.
+
+7
+Write a test case for a class representing a stack to test push and pop operations.
+
+8
+Create a test case for a class representing a queue to test enqueue and dequeue operations.
+
+9
+Implement a test case for a function that searches for a substring in a given string.
+
+10
+Write a test case for a class that simulates a simple banking system with account creation, deposit, and withdrawal operations.
+

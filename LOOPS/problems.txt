@@ -1,0 +1,61 @@
+Beginner Problems:
+1
+Write a program that prints the numbers from 1 to 10 using a for loop.
+
+2
+Create a program that calculates the sum of all even numbers from 1 to 50 using a for loop.
+
+3
+ Write a Python program that asks the user for a number and prints its multiplication table (up to 10) using a for loop.
+
+4
+Create a program that prints the factorial of a given number using a while loop.
+
+5
+Write a program that generates and prints the Fibonacci sequence of the first 10 numbers using a for loop.
+
+6
+Implement a program that counts the number of vowels in a given string using a for loop.
+
+7
+Create a program that prints all the prime numbers between 1 and 100 using a for loop.
+
+8
+Write a program that prints the reverse of a given string using a while loop.
+
+9
+Implement a program that calculates the sum of all the digits in a given number using a while loop.
+
+10
+Create a program that prints a triangle pattern of asterisks using nested for loops.
+
+Intermediate Problems:
+
+1
+Write a program that finds the greatest common divisor (GCD) of two numbers using a while loop.
+
+2
+Implement a program that checks if a given string is a palindrome (reads the same forwards and backwards) using a for loop.
+
+3
+Create a program that calculates the factorial of a given number using a for loop and a recursive approach.
+
+4
+Write a program that generates and prints the first 20 terms of the Fibonacci sequence using a while loop.
+
+5
+Implement a program that checks if a number is prime using a while loop.
+
+6
+Create a program that calculates the sum of all the prime numbers between 1 and 100 using a for loop.
+
+7
+Write a program that prints a diamond pattern of asterisks using nested for loops.
+
+8
+Implement a program that calculates the sum of digits in a given number until the sum becomes a single digit using a while loop.
+
+9
+Create a program that calculates the product of all the elements in a list using a for loop.
+
+10Write a program that finds the first 10 numbers that are both divisible by 3 and 5 using a while loop.

@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Create a base class Animal with a method speak(). Create subclasses Dog and Cat that inherit from Animal and override the speak() method to return "Woof!" and "Meow!" respectively.
+
+2
+Write a base class Shape with a method area(). Create subclasses Rectangle and Circle that inherit from Shape and override the area() method to calculate their respective areas.
+
+3
+Implement a base class Person with attributes for name and age. Create a subclass Student that inherits from Person and adds an attribute for major.
+
+
+4
+Create a base class Vehicle with attributes for make, model, and year. Create subclasses Car and Motorcycle that inherit from Vehicle and add attributes specific to each type.
+
+5
+Write a base class BankAccount with methods for deposit and withdrawal. Create subclasses SavingsAccount and CheckingAccount that inherit from BankAccount and add attributes for interest rate and overdraft limit, respectively.
+
+6
+Implement a base class Shape with attributes for color and filled (boolean). Create subclasses Rectangle and Circle that inherit from Shape and add attributes specific to each shape.
+
+7
+Create a base class Employee with attributes for name and salary. Create a subclass Manager that inherits from Employee and adds an attribute for department.
+
+8
+Write a base class Person with attributes for name and address. Create subclasses Student and Teacher that inherit from Person and add attributes specific to each role.
+
+9
+Implement a base class Fruit with a method is_delicious(). Create subclasses Apple and Lemon that inherit from Fruit and override the is_delicious() method.
+
+10
+Create a base class Animal with attributes for name and species. Create subclasses Dog and Cat that inherit from Animal and add methods to print information about each animal.
+
+
+Intermediate Problems:
+
+1
+Write a base class Shape with methods for area and perimeter. Create subclasses Rectangle and Circle that inherit from Shape and override the methods accordingly.
+
+2
+Implement a base class Employee with attributes for name and salary. Create subclasses Manager and Engineer that inherit from Employee and add methods to calculate bonuses.
+
+3
+Create a base class BankAccount with methods for deposit and withdrawal. Create subclasses SavingsAccount and CheckingAccount that inherit from BankAccount and add methods for calculating interest and overdraft fees.
+
+4
+Write a base class Vehicle with attributes for make, model, and year. Create subclasses Car and Motorcycle that inherit from Vehicle and add methods to calculate mileage.
+
+5
+Implement a base class Animal with attributes for name and species. Create subclasses Bird and Mammal that inherit from Animal and add methods specific to each group.
+
+6
+Create a base class Person with attributes for name and address. Create subclasses Student and Teacher that inherit from Person and add methods for scheduling classes.
+
+7
+Write a base class Shape with attributes for color and filled. Create subclasses Rectangle and Circle that inherit from Shape and add methods for drawing the shapes.
+
+8
+Implement a base class Fruit with methods for ripening and slicing. Create subclasses Apple and Watermelon that inherit from Fruit and add methods for juicing and serving.
+
+9
+Create a base class Vehicle with methods for starting and stopping. Create subclasses Car and Bicycle that inherit from Vehicle and add methods for changing gears and braking.
+
+10
+Write a base class Book with attributes for title and author. Create subclasses Ebook and Paperback that inherit from Book and add methods for displaying the book format.

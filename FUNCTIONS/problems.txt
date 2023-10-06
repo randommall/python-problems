@@ -1,0 +1,68 @@
+Beginner Problems:
+
+1
+Write a function that takes two numbers as arguments and returns their sum.
+
+2
+Create a function that calculates the area of a rectangle given its length and width.
+
+3
+Implement a function that checks if a number is even and returns True if it is or False if it's odd.
+
+4
+Write a function that takes a list of numbers and returns the maximum value in the list.
+
+5
+Create a function that reverses a given string.
+
+6
+Implement a function that checks if a string is a palindrome and returns True if it is or False if it's not.
+
+7
+Write a function that calculates the factorial of a given integer.
+
+8
+Create a function that takes a list of words and returns the longest word in the list.
+
+9
+Implement a function that calculates the sum of all even numbers from 1 to a given number.
+
+10
+Write a function that takes a temperature in Celsius and converts it to Fahrenheit.
+
+
+Intermediate Problems:
+
+
+
+1
+Create a function that calculates the area of a triangle given its base and height.
+
+2
+Implement a function that counts the number of occurrences of a specific character in a string.
+
+3
+Write a function that finds the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+
+4
+Create a function that takes a list of integers and returns a new list with only the unique elements.
+
+5
+Implement a function that checks if a given number is prime.
+
+6
+Write a function that generates and returns the first n terms of the Fibonacci sequence.
+
+7
+Create a function that calculates the sum of all prime numbers between 1 and a given number.
+
+8
+Implement a function that calculates the product of all elements in a list.
+
+
+9
+Write a function that checks if a given string is an anagram of another string.
+
+10
+Create a function that takes a list of numbers and returns a new list with the numbers sorted in ascending order.
+

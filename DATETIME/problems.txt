@@ -1,0 +1,64 @@
+Beginner Problems:
+
+1
+Write a program that prints the current date and time using the datetime module.
+
+2
+Create a program that prints the days of the week using a loop and the datetime module.
+
+3
+Implement a program that prints the date of every Sunday for the next two months using a loop and the datetime module.
+
+4
+Write a program that counts the number of days between two given dates using the datetime module and a loop.
+
+5
+Create a program that prints the dates of the next 10 Fridays using a loop and the datetime module.
+
+6
+Implement a program that calculates your age in days using your birthdate and the datetime module.
+
+7
+Write a program that prints the date of the first day of the next month using the datetime module.
+
+8
+Create a program that prints the date of the first day of each month for the next year using a loop and the datetime module.
+
+8
+Implement a program that prints the number of days in each month for a given year using a loop and the datetime module.
+
+10
+Write a program that calculates the number of days until your next birthday using the datetime module and a loop.
+
+
+Intermediate Problems:
+
+1
+Create a program that generates a list of all the dates between two given dates using the datetime module and a loop.
+
+2
+Implement a program that finds the date of the next occurrence of a specific day of the week (e.g., next Wednesday) using a loop and the datetime module.
+
+3
+Write a program that calculates the number of weekdays between two dates using the datetime module and a loop.
+
+4
+Create a program that prints the dates of all the U.S. federal holidays in a given year using a loop and the datetime module.
+
+5
+Implement a program that calculates the number of leap years between two given years using the datetime module and a loop.
+
+6
+Write a program that generates a list of dates for a given month and year, including only weekdays (Monday to Friday) using a loop and the datetime module.
+
+7
+Create a program that calculates the date for a specific day of the month (e.g., the third Sunday) for a given month and year using a loop and the datetime module.
+
+8
+Implement a program that calculates the number of days until the next major holiday (e.g., Christmas) using a loop and the datetime module.
+
+9
+Write a program that generates a list of dates for the last 10 Fridays using a loop and the datetime module.
+
+10Create a program that calculates the number of full weeks between two given dates using the datetime module and a loop.
+

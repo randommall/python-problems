@@ -1,0 +1,31 @@
+Intermediate Problems:
+
+1
+Given a list of numbers, find the second smallest number without using the min() function.
+
+2
+Write a program to find the intersection of two lists (common elements).
+
+3
+Given two lists of names, create a new list that contains names present in both lists.
+
+4
+Write a program that rotates a list to the right by a given number of positions.
+
+5
+Given a list of strings, filter out strings with a length less than 5 characters.
+
+6
+Implement a program to shuffle the elements of a list randomly.
+
+7
+Given a list of numbers, find the median value (middle value when the list is sorted).
+
+8
+Create a program that finds the frequency of each element in a list and stores it in a dictionary.
+
+9
+Write a program to flatten a nested list (list of lists) into a single list.
+
+10
+Given a list of numbers, split the list into two lists: one containing even numbers and the other containing odd numbers.

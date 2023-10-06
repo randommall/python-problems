@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Write a lambda function that adds two numbers.
+
+2
+Create a lambda function that checks if a number is even.
+
+3
+Implement a lambda function that squares a given number.
+
+4
+Write a lambda function that calculates the area of a rectangle given its length and width.
+
+5
+Create a lambda function that extracts the last character from a string.
+
+6
+Implement a lambda function that converts a Celsius temperature to Fahrenheit.
+
+7
+Write a lambda function that concatenates two strings.
+
+8
+Create a lambda function that capitalizes the first letter of a string.
+
+9
+Implement a lambda function that calculates the product of two numbers.
+
+10
+Write a lambda function that sorts a list of names in reverse alphabetical order.
+
+
+Intermediate Problems:
+
+1
+Create a lambda function that finds the maximum value from a list of numbers.
+
+2
+Implement a lambda function that calculates the factorial of a given number.
+
+3
+Write a lambda function that filters out even numbers from a list.
+
+4
+Create a lambda function that sorts a list of dictionaries by a specific key.
+
+5
+Implement a lambda function that calculates the square root of a number.
+
+6
+Write a lambda function that extracts the domain name from a list of email addresses.
+
+7
+Create a lambda function that generates a list of the first 10 prime numbers.
+
+8
+Implement a lambda function that finds the longest word in a list of strings.
+
+9
+Write a lambda function that calculates the sum of digits in a number.
+
+10
+Create a lambda function that counts the number of words in a string.
+

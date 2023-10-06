@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Write a Python script that uses the socket module to create a simple client-server application. The server should accept connections and respond with a "Hello, client!" message when a client connects.
+
+2
+Create a program that uses the socket module to retrieve the IP address of a given domain.
+
+3
+Implement a simple HTTP client that sends a GET request to a specified URL and prints the response.
+
+4
+Write a basic web server using the http.server module that serves a static HTML file.
+
+5
+Create a program that pings a specified IP address or host using the ping command and captures the output.
+
+6
+Implement a basic port scanner that checks for open ports on a given IP address or host.
+
+7
+Write a Python script that sends an email using the smtplib module.
+
+8
+Create a program that downloads a file from a given URL using the urllib module.
+
+9
+Implement a simple chat server and client using the socket module. The server should relay messages between clients.
+
+10
+Write a program that fetches the content of a web page and counts the number of times a specific word appears on that page.
+
+
+Intermediate Problems:
+
+1
+Create a multi-threaded chat server and client using the socket and threading modules.
+
+2
+Implement a file transfer program that allows a client to upload and download files to/from a server using the socket module.
+
+3
+Write a program that performs a DNS lookup to retrieve information about a domain using the socket module.
+
+4
+Create a basic web scraping tool that retrieves data from a website using the requests module and parses it using a library like BeautifulSoup.
+
+5
+Implement a REST API client that makes GET, POST, PUT, and DELETE requests to interact with a web API using the requests module.
+
+6
+Create a program that monitors a specific network port for incoming connections and logs details about the connected clients.
+
+7
+Write a program that establishes an encrypted SSL/TLS connection with a server using the ssl module.
+
+8
+Implement a simple proxy server that forwards HTTP requests to a target server and sends back the responses.
+
+9
+Create a program that performs network packet sniffing using a library like Scapy to capture and analyze network traffic.
+
+10
+Write a program that establishes a secure SSH connection to a remote server using the paramiko library.
+

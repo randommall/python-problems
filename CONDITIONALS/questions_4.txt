@@ -1,0 +1,32 @@
+Intermediate Problems:
+
+1
+Write a program that takes three numbers as input and finds the largest among them without using the built-in max() function, only using conditionals.
+
+2
+Create a program that calculates the factorial of a given number without using loops, only using conditionals.
+
+3
+Implement a simple grade calculator that takes a percentage score as input and returns the corresponding letter grade ('A', 'B', 'C', 'D', 'F') using only conditionals.
+
+4
+Write a program that checks if a given string is a valid email address (e.g., it contains '@' and '.') using only conditionals.
+
+5
+Create a program that simulates a basic ATM machine, allowing users to check their balance, deposit, and withdraw funds using only conditionals.
+
+6
+Write a Python program that converts a given temperature in Celsius to Fahrenheit or vice versa based on user input using only conditionals.
+
+7
+Implement a Rock-Paper-Scissors game where the user can play against the computer using only conditionals.
+
+
+8
+Write a program that takes a list of numbers as input and returns the sum of all the positive numbers in the list using only conditionals.
+
+9
+Create a program that simulates a simple text-based calculator, allowing users to enter arithmetic expressions (e.g., "3 + 4") and evaluating them using only conditionals.
+
+10
+Write a Python program that generates a random password of a specified length with a combination of letters, numbers, and special characters using only conditionals.

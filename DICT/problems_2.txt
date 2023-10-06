@@ -1,0 +1,31 @@
+Intermediate Problems:
+
+1
+Given a dictionary of words and their frequencies, find the word with the highest frequency.
+
+2
+Write a program to remove a key-value pair from a dictionary.
+
+3
+Given a dictionary of products and their prices, calculate the total cost of a shopping cart represented as a list of products.
+
+4
+Create a program that finds all keys in a dictionary with a specific value.
+
+5
+Given a dictionary of student IDs and their corresponding names, create a dictionary that maps student names to their IDs.
+
+6
+Write a program that checks if a value exists in a dictionary.
+
+7
+Given a dictionary of country populations, find the country with the largest population.
+
+8
+Create a program that sorts a dictionary by its keys in ascending order.
+
+9
+Write a program that calculates the average value of a dictionary's values.
+
+10
+Given a dictionary of words and their lengths, find the longest word.

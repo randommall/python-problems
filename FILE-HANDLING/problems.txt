@@ -1,0 +1,67 @@
+Beginner Problems:
+
+
+1
+Create a Python script that opens a text file, writes "Hello, World!" to it, and closes the file.
+
+2
+Write a program that opens an existing text file, reads its contents, and prints them to the console.
+
+3
+Create a program that opens a file for writing and adds multiple lines of text to it.
+
+4
+Write a Python script that counts the number of words in a text file.
+
+5
+Create a program that copies the contents of one text file into another.
+
+6
+Write a program that appends new data to an existing text file.
+
+7
+Create a Python script that reads a CSV file and prints the data in tabular form.
+
+8
+Write a program that reads a text file and removes all the blank lines from it.
+
+
+9
+Create a program that searches for a specific word in a text file and counts its occurrences.
+
+10
+Write a script that renames a file from one name to another.
+
+
+Intermediate Problems:
+
+1
+Implement a program that reads a CSV file, performs some data analysis (e.g., calculating the average), and prints the results.
+
+2
+Write a Python script that reads a JSON file, extracts specific data from it, and stores it in another JSON file.
+
+3
+Create a program that reads a log file, extracts error messages, and writes them to a separate error log file.
+
+4
+Implement a program that recursively searches for files with a specific extension in a directory and its subdirectories.
+
+5
+Write a script that reads a CSV file, sorts the data by a specific column, and writes it back to the file.
+
+6
+Create a program that reads a binary file (e.g., an image or audio file) and displays information about its format.
+
+7
+Implement a program that compresses a text file using a compression algorithm and saves the compressed data to another file.
+
+8
+Write a Python script that reads a text file containing code and checks for syntax errors without executing the code.
+
+9
+Create a program that reads a configuration file (e.g., INI or YAML) and prints its contents.
+
+10
+Implement a program that reads a large text file in chunks, processes the data, and writes the results to an output file.
+

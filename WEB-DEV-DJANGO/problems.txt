@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Create a new Django project and a simple app that displays "Hello, World!" on the homepage.
+
+2
+Implement a Django view that displays a "About Us" page with some information about your website.
+
+3
+Write a Django view that takes a name as a parameter and displays a personalized greeting.
+
+4
+Create a simple contact form in Django that accepts user input (name and email) and displays a "Thank you" message.
+
+5
+Implement a Django app that serves a static HTML template with a CSS stylesheet.
+
+6
+Write a Django view that displays a list of items (e.g., fruits or animals) in an HTML list.
+
+7
+Create a Django app with a form that allows users to upload a file and displays the uploaded file's name.
+
+8
+Implement a Django app that connects to a SQLite database and displays data from a table on a webpage.
+
+9
+Write a Django view that redirects users to an external website when they click a link.
+
+10
+Create a simple login form in Django that accepts a username and password and displays a success message.
+
+
+Intermediate Problems:
+
+1
+Implement a Django app that allows users to register for an account, store their information in a database, and log in.
+
+2
+Create a blog application in Django where users can add, edit, and delete blog posts.
+
+3
+Write a Django app that uses Django's built-in email capabilities to send email notifications to users.
+
+4
+Implement a RESTful API in Django that allows users to perform CRUD operations on a resource (e.g., a list of books).
+
+5
+Create a Django app with user authentication and authorization to restrict access to certain views.
+
+6
+Implement a file upload and download feature in a Django app, allowing users to upload files and retrieve them.
+
+7
+Write a Django app that integrates with an external API (e.g., weather data or currency exchange rates) and displays the data.
+
+8
+Create a real-time chat application using Django Channels to allow users to send and receive messages instantly.
+
+9
+Implement user profile pages in a Django app where users can edit their profile information.
+
+10
+Create a Django app with a search functionality that filters and displays data from a database based on user input.
+

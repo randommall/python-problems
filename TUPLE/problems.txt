@@ -1,0 +1,31 @@
+Beginner Problems:
+
+1
+Create an empty tuple and print it.
+
+2
+Given a tuple of numbers, find the sum of all the numbers in the tuple.
+
+3
+Write a program to find the largest number in a tuple of integers.
+
+4
+Given two tuples, concatenate them to create a new tuple.
+
+5
+Take two tuples and create a dictionary with elements from one tuple as keys and elements from the other tuple as values.
+
+6
+Create a program that checks if a specific element is present in a tuple of names.
+
+7
+Given a tuple of numbers, count how many of them are even.
+
+8
+Convert a tuple of strings into a single string by joining the elements.
+
+9
+Given a tuple of names, sort them in alphabetical order.
+
+10
+Create a program that retrieves the third element from a tuple.

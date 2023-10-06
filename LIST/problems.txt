@@ -1,0 +1,32 @@
+Beginner Problems:
+
+1
+Create an empty list and add 5 integers to it. Then, print the list.
+
+2
+Given a list of numbers, find the sum of all the numbers in the list.
+
+3
+Write a program to find the largest number in a list of integers.
+
+4
+Given a list of strings, concatenate them to form a single string.
+
+
+5
+Take two lists and concatenate them into a new list.
+
+6
+Create a program that checks if a specific element is present in a list of names.
+
+7
+Given a list of numbers, count how many of them are even.
+
+8
+Remove duplicates from a list of numbers, preserving the order of the original list.
+
+9
+Given a list of names, sort them in alphabetical order.
+
+10
+Create a program that reverses a list of characters.

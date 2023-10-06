@@ -1,0 +1,31 @@
+
+
+1
+Combine two string variables to form a full name and print it.
+
+2
+Perform basic arithmetic operations (addition, subtraction, multiplication, division) with integer variables 10 and 5.
+
+3
+Create a boolean variable that checks if a given number 100, 2090, 377, 455,and 43 is even. you are not allowed to use comditiomals, the output should be a boolean
+
+4
+Declare a string variable with a sentence and count the number of characters in it. output should be an imteger.
+
+5
+Concatenate a string( Merlin ) variable with an integer ( 10000 ) variable to create a message.
+
+6
+Given two integer variables, swap their values without using a third variable.
+
+7
+Write a program that calculates the area of a rectangle with given width and height integer variables. by taking input from a user
+
+8
+Implement a program that converts a string variable containing a number to an actual integer.
+
+9
+Given a string variable, reverse its content and print it. no loop allowed
+
+10
+Implement a program that checks if a string variable is a palindrome (reads the same forwards and backwards). no loop allowed.

@@ -1,0 +1,31 @@
+Beginner Problems:
+
+1
+Write a Python program that checks if a given number is even or odd using only conditionals.
+
+2
+Create a program that asks the user for their age and then determines if they are eligible to vote (18 years or older) using only conditionals.
+
+3
+Write a Python program that takes two numbers as input and prints the larger one using only conditionals.
+
+4
+Create a program that checks if a given year is a leap year using only conditionals.
+
+5
+Write a program that takes a user's grade as input (e.g., 'A', 'B', 'C', 'D', 'F') and prints a corresponding message ('Excellent', 'Good', 'Average', 'Pass', 'Fail') using only conditionals.
+
+6
+Implement a simple calculator that performs addition, subtraction, multiplication, or division based on user input using only conditionals.
+
+7
+Write a program that checks if a given string is a palindrome (reads the same forwards and backwards) using only conditionals.
+
+8
+Create a program that determines if a number is positive, negative, or zero using only conditionals.
+
+9
+Write a Python program that calculates the area of a triangle based on its base and height using only conditionals.
+
+10
+Implement a guessing game where the computer generates a random number between 1 and 100, and the user has to guess it using only conditionals.

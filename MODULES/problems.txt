@@ -1,0 +1,63 @@
+Beginner Problems:
+
+1
+Import the math module and use it to calculate the square root of a given number.
+
+2
+Use the random module to generate a random integer between 1 and 10.
+
+3
+Import the calendar module and print the calendar for a specific month and year.
+
+4
+Use the time module to display the current date and time.
+
+5
+Import the os module and create a new directory with a specific name.
+
+6
+Use the datetime module to calculate the difference between two dates.
+
+7
+Import the random module to simulate a dice roll (generate a random number between 1 and 6).
+
+8
+Use the sys module to access command-line arguments passed to a Python script.
+
+9
+Import the json module and serialize a Python dictionary to JSON format.
+
+10
+Use the requests module to make an HTTP GET request to a website and print the response content.
+
+
+Intermediate Problems:
+
+1
+Import the math module and use it to calculate the factorial of a given number.
+U
+
+2
+se the random module to create a random password of a specified length.
+Import the os module and list all files in a specific directory.
+
+3
+Use the datetime module to calculate the age of a person given their birthdate.
+
+4
+Import the json module to deserialize a JSON file and access its data.
+
+5
+Use the calendar module to find the day of the week for a specific date.
+
+6
+Import the random module to simulate a simple text-based game (e.g., coin toss or dice game).
+
+7
+Use the time module to measure the execution time of a function.
+
+8
+Import the csv module to read and manipulate data from a CSV file.
+
+9
+Use the os module to rename multiple files in a directory based on a specific pattern.

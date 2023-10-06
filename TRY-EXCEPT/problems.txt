@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Write a Python program that attempts to divide a number by zero and catches the ZeroDivisionError exception.
+
+2
+Create a program that takes user input and handles the ValueError that occurs if the input is not a valid integer.
+
+3
+Implement a program that opens a file, handles the FileNotFoundError, and prints an error message if the file does not exist.
+
+4
+Write a Python program that tries to access a non-existent key in a dictionary and catches the KeyError.
+
+5
+Create a program that attempts to convert a string to an integer using the int() function and handles the ValueError if the conversion fails.
+
+6
+Implement a program that attempts to connect to a website using the requests library, handles potential ConnectionError, and displays an error message.
+
+7
+Write a program that reads a text file and removes all the blank lines from it, handling any exceptions that may occur.
+
+8
+Create a program that searches for a specific word in a text file and counts its occurrences while handling exceptions.
+
+9
+Implement a program that reads a binary file (e.g., an image or audio file) and displays an informative error message if the file format is not supported.
+
+10
+Write a Python script that renames a file from one name to another and handles any potential FileNotFoundError exceptions.
+
+
+Intermediate Problems:
+
+1
+Create a program that reads a CSV file, performs some data analysis (e.g., calculating the average), and prints the results while handling any exceptions.
+
+2
+Implement a program that reads a JSON file, extracts specific data from it, and stores it in another JSON file, handling any FileNotFoundError exceptions.
+
+3
+Write a program that reads a log file, extracts error messages, and writes them to a separate error log file while handling exceptions.
+
+4
+Create a program that recursively searches for files with a specific extension in a directory and its subdirectories, handling any directory permission issues.
+
+5
+Implement a program that reads a CSV file, sorts the data by a specific column, and writes it back to the file while handling any potential file I/O errors.
+
+6
+Write a Python script that reads a text file containing code and checks for syntax errors without executing the code, handling any syntax-related exceptions.
+
+7
+Create a program that reads a configuration file (e.g., INI or YAML) and prints its contents, handling any file or parsing exceptions.
+
+8
+Implement a program that compresses a text file using a compression algorithm and saves the compressed data to another file while handling any exceptions.
+
+9
+Write a Python script that reads a large text file in chunks, processes the data, and writes the results to an output file while handling file I/O exceptions.
+
+10
+Create a program that reads data from an external database, handles any database-related exceptions (e.g., ConnectionError), and prints informative error messages.
+

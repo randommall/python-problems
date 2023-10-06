@@ -1,0 +1,31 @@
+Beginner Problems:
+
+1
+Create an empty dictionary and print it.
+
+2
+Given a dictionary of students and their scores, find the average score.
+
+3
+Write a program to check if a key exists in a dictionary.
+
+4
+Given a dictionary of fruits and their prices, find the most expensive fruit.
+
+5
+Create a program that adds a new key-value pair to a dictionary.
+
+6
+Given a dictionary of words and their meanings, look up the meaning of a specific word.
+
+7
+Write a program that counts the number of keys in a dictionary.
+
+8
+Given a dictionary of book titles and their authors, find the author of a specific book.
+
+9
+Create a program that updates the value of an existing key in a dictionary.
+
+10
+Given two dictionaries, merge them into a single dictionary.

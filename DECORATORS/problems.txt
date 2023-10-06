@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Create a simple decorator that prints "Function called" before and after calling a function.
+
+2
+Write a decorator that measures the time it takes for a function to run and prints the execution time.
+
+3
+Implement a decorator that logs the arguments and return value of a function when it's called.
+
+
+4
+Create a decorator that ensures a function is only called if a specific condition is met (e.g., a boolean flag).
+
+5
+Write a decorator that restricts access to a function based on user roles (e.g., admin, user).
+
+6
+Implement a decorator that logs the exceptions raised by a function and re-raises them.
+
+7
+Create a decorator that caches the results of a function and returns cached results if the same inputs are provided again.
+
+8
+Write a decorator that restricts the number of times a function can be called.
+
+9
+Implement a decorator that memoizes a function to improve performance by storing previous results.
+
+10Create a decorator that logs the name of the function being called.
+
+
+Intermediate Problems:
+
+1
+Write a decorator that measures the memory usage of a function and prints the memory consumed.
+
+2
+Implement a decorator that wraps a function with try-except blocks to handle specific exceptions.
+
+3
+Create a decorator that provides a retry mechanism for a function that might fail.
+
+4
+Write a decorator that ensures a function is called only once and returns the result for subsequent calls.
+
+5
+Implement a decorator that enforces rate limiting on a function (e.g., allow a maximum of 10 calls per minute).
+
+6
+Create a decorator that measures the CPU usage of a function and prints the CPU time consumed.
+
+7
+Write a decorator that logs the start and end times of a function's execution.
+
+8
+Implement a decorator that caches the results of a function but clears the cache after a certain period.
+
+9
+Create a decorator that adds authentication to a function, requiring user login before access.
+
+10
+Write a decorator that validates the arguments passed to a function based on expected types and values.
+

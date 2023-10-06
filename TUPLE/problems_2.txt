@@ -1,0 +1,31 @@
+Intermediate Problems:
+
+1
+Given a tuple of numbers, find the second smallest number without using the min() function.
+
+2
+Write a program to find the intersection of two tuples (common elements).
+
+3
+Given two tuples of names, create a new tuple that contains names present in both tuples.
+
+4
+Write a program that reverses a tuple of characters.
+
+5
+Given a tuple of strings, filter out strings with a length less than 5 characters.
+
+6
+Implement a program to concatenate two tuples element-wise.
+
+7
+Given a tuple of numbers, find the median value (middle value when the tuple is sorted).
+
+8
+Create a program that finds the frequency of each element in a tuple and stores it in a dictionary.
+
+9
+Write a program to convert a list of numbers into a tuple.
+
+10
+Given a tuple of numbers, split the tuple into two tuples: one containing even numbers and the other containing odd numbers.

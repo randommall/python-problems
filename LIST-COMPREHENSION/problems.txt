@@ -1,0 +1,65 @@
+Beginner Problems:
+
+1
+Create a list comprehension that generates a list of the first 10 even numbers.
+
+2
+Write a list comprehension that squares each element of a given list of numbers.
+
+3
+Implement a list comprehension that extracts the vowels from a given string.
+
+4
+Create a list comprehension that filters out all negative numbers from a list.
+
+5
+Write a program that uses list comprehension to double each element of a list of integers.
+
+6
+Implement a list comprehension that converts a list of temperatures in Celsius to Fahrenheit.
+
+7
+Create a list comprehension that generates a list of squares of even numbers from 1 to 20.
+
+8
+Write a program that uses list comprehension to capitalize the first letter of each word in a sentence.
+
+9
+Implement a list comprehension that flattens a list of lists into a single list.
+
+10
+Create a list comprehension that extracts all the even-length words from a list of strings.
+
+
+Intermediate Problems:
+
+1
+Write a program that uses list comprehension to find the common elements between two lists.
+
+2
+Implement a list comprehension that calculates the product of corresponding elements in two lists.
+
+3
+Create a list comprehension that generates a list of all prime numbers between 1 and 100.
+
+4
+Write a program that uses list comprehension to find the unique elements in a list (removing duplicates).
+
+5
+Implement a list comprehension that generates a list of all Pythagorean triplets (a, b, c) where a, b, and c are integers less than 20.
+
+6
+Create a list comprehension that calculates the cumulative sum of a list of numbers.
+
+7
+Write a program that uses list comprehension to extract the names of people older than 30 from a list of dictionaries.
+
+8
+Implement a list comprehension that extracts all the words from a list of sentences, ignoring punctuation and duplicates.
+
+9
+Create a list comprehension that finds all the numbers divisible by both 3 and 5 in a range from 1 to 100.
+
+10
+Write a program that uses list comprehension to reverse each word in a sentence while keeping the word order intact.
+
