@@ -2,15 +2,19 @@ Beginner Problems:
 
 1
 Write a function that takes two numbers as arguments and returns their sum.
+the parameters must have some default values.
 
 2
-Create a function that calculates the area of a rectangle given its length and width.
+Create a function that calculates the area of a rectangle given its length and width.the parameters must have some default values.
+
 
 3
 Implement a function that checks if a number is even and returns True if it is or False if it's odd.
+the parameters must have some default values.
 
 4
 Write a function that takes a list of numbers and returns the maximum value in the list.
+the parameters must have some default values.
 
 5
 Create a function that reverses a given string.

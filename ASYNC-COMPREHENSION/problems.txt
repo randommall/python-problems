@@ -1,0 +1,31 @@
+Async Comprehension Problems:
+
+Basic Async Comprehension:
+Write an asynchronous comprehension that generates a list of squares of numbers from 1 to 10 using an asynchronous generator.
+
+Async Comprehension with Await:
+Create an asynchronous comprehension that fetches data from three different URLs concurrently using asyncio and aiohttp. Store the results in a list.
+
+Filtering with Async Comprehension:
+Generate a list of even numbers from 1 to 20 using an asynchronous comprehension.
+
+Async Comprehension with External Data:
+Read a list of URLs from a file and use an asynchronous comprehension to fetch the data from all the URLs concurrently using asyncio and aiohttp.
+
+Multiple Awaitable Objects:
+Define a list of asyncio tasks, each of which simulates a time-consuming operation. Use an asynchronous comprehension to await all the tasks and collect their results in a list.
+
+Aggregating Data:
+Create a list of tasks that retrieve data from multiple sources asynchronously. Use an asynchronous comprehension to calculate the sum of the retrieved values.
+
+Complex Async Comprehension:
+Generate a list of prime numbers between 1 and 100 using an asynchronous comprehension. You may want to create an async function to check for prime numbers.
+
+Async Comprehension with Error Handling:
+Fetch data from a list of URLs using an asynchronous comprehension, handling exceptions for failed requests and storing only successful responses.
+
+Combining Multiple Sources:
+Read data from multiple files concurrently using an asynchronous comprehension. Combine the data from all files into a single list.
+
+Nested Async Comprehensions:
+Create a matrix of random numbers using a nested asynchronous comprehension. The outer comprehension generates rows, and the inner comprehension generates random values within each row.
