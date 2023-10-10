@@ -13,7 +13,8 @@ Write a program to find the largest number in a tuple of integers.
 Given two tuples, concatenate them to create a new tuple.
 
 5
-Take two tuples and create a dictionary with elements from one tuple as keys and elements from the other tuple as values.
+Take two tuples and create a dictionary with elements from one tuple as
+ keys and elements from the other tuple as values.
 
 6
 Create a program that checks if a specific element is present in a tuple of names.

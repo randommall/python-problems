@@ -23,7 +23,8 @@ Create a program that checks if a specific element is present in a list of names
 Given a list of numbers, count how many of them are even.
 
 8
-Remove duplicates from a list of numbers, preserving the order of the original list.
+Remove duplicates from a list of numbers,
+ preserving the order of the original list.
 
 9
 Given a list of names, sort them in alphabetical order.

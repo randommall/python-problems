@@ -6,16 +6,19 @@ Write a program that prints the numbers from 1 to 10 using a for loop.
 Create a program that calculates the sum of all even numbers from 1 to 50 using a for loop.
 
 3
- Write a Python program that asks the user for a number and prints its multiplication table (up to 10) using a for loop.
+ Write a Python program that asks the user for a number and prints 
+ its multiplication table (up to 10) using a for loop.
 
 4
 Create a program that prints the factorial of a given number using a while loop.
 
 5
-Write a program that generates and prints the Fibonacci sequence of the first 10 numbers using a for loop.
+Write a program that generates and prints the Fibonacci
+ sequence of the first 10 numbers using a for loop.
 
 6
-Implement a program that counts the number of vowels in a given string using a for loop.
+Implement a program that counts the number of vowels in 
+a given string using a for loop.
 
 7
 Create a program that prints all the prime numbers between 1 and 100 using a for loop.

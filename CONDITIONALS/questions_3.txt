@@ -13,10 +13,12 @@ Write a Python program that takes two numbers as input and prints the larger one
 Create a program that checks if a given year is a leap year using only conditionals.
 
 5
-Write a program that takes a user's grade as input (e.g., 'A', 'B', 'C', 'D', 'F') and prints a corresponding message ('Excellent', 'Good', 'Average', 'Pass', 'Fail') using only conditionals.
+Write a program that takes a user's grade as input (e.g., 'A', 'B', 'C', 'D', 'F') and prints a corresponding message 
+('Excellent', 'Good', 'Average', 'Pass', 'Fail') using only conditionals.
 
 6
-Implement a simple calculator that performs addition, subtraction, multiplication, or division based on user input using only conditionals.
+Implement a simple calculator that performs addition, subtraction, multiplication,
+ or division based on user input using only conditionals.
 
 7
 Write a program that checks if a given string is a palindrome (reads the same forwards and backwards) using only conditionals.
@@ -28,4 +30,5 @@ Create a program that determines if a number is positive, negative, or zero usin
 Write a Python program that calculates the area of a triangle based on its base and height using only conditionals.
 
 10
-Implement a guessing game where the computer generates a random number between 1 and 100, and the user has to guess it using only conditionals.
+Implement a guessing game where the computer generates a random number between 1 and 100,
+ and the user has to guess it using only conditionals.
