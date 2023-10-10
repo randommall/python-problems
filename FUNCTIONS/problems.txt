@@ -66,6 +66,7 @@ Implement a function that calculates the product of all elements in a list.
 
 9
 Write a function that checks if a given string is an anagram of another string.
+must return a boolean
 
 10
 Create a function that takes a list of numbers and returns a new list with the numbers sorted in ascending order.
