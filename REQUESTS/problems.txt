@@ -1,0 +1,111 @@
+1
+make a get request to "https://jsonplaceholder.typicode.com/posts"
+a
+ensure the status code is 200.
+b
+use try-except
+c
+display the data type returned.
+
+d
+print out the post title with the length not more than 20.
+
+e
+display the total number of title with length not more than 20.
+
+f
+display the status code if the request fail.
+
+g
+set a specific timeout for the response
+
+2
+GET Request and Response Time:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/posts."
+Ensure the status code is 200.
+Display the data type returned.
+Measure and print the response time in seconds using the time module.
+Handle network errors and exceptions by using try-except blocks to 
+provide a meaningful error message.
+Set appropriate timeouts to avoid waiting indefinitely for a response.
+
+3
+GET Request and First User's Company Name:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/users."
+Ensure the status code is 200.
+Display the data type returned.
+Check if the response is in JSON format before attempting to access the "company" name.
+Handle potential exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+
+4
+POST Request and Response Data:
+
+Send a POST request to "https://jsonplaceholder.typicode.com/posts" with a JSON payload containing a "title" and "body."
+Ensure the status code is 201.
+Display the data type returned.
+Handle exceptions related to invalid data or server errors.
+Include proper error handling and provide meaningful error messages in case of request failure.
+Set appropriate timeouts to avoid long waits.
+
+5
+GET Request and Max UserID:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/users."
+Ensure the status code is 200.
+Display the data type returned.
+Check if the response is in JSON format.
+Handle potential exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+
+6
+GET Request and Unique Usernames:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/users."
+Ensure the status code is 200.
+Display the data type returned.
+Check if the response is in JSON format.
+Handle exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+
+7
+GET Request and Albums:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/albums."
+Ensure the status code is 200.
+Display the data type returned.
+Check if the response is in JSON format.
+Handle exceptions related to missing data or unexpected response structure.
+Set appropriate timeouts and handle network errors.
+
+8
+GET Request and Search:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/posts."
+Ensure the status code is 200.
+Display the data type returned.
+Handle exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+Handle exceptions related to network errors.
+
+9
+GET Request and Geo Coordinates:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/users."
+Ensure the status code is 200.
+Display the data type returned.
+Check if the response is in JSON format.
+Handle exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+
+10
+GET Request and Comment Count:
+
+Make a GET request to "https://jsonplaceholder.typicode.com/posts/1/comments."
+Ensure the status code is 200.
+Display the data type returned.
+Handle exceptions related to missing data or unexpected response structure.
+Implement proper timeout settings.
+Handle exceptions related to network errors.
