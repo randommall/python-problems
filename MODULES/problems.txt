@@ -2,31 +2,35 @@ Beginner Problems:
 
 1
 Import the math module and use it to calculate
-the square root of a given number in a file called 1-square.py.
-create another file called 1-imported.py, import the square.py
+the square root of a given number in a file called square_1.py.
+create another file called imported_1.py, import the square.py
  and use it to print the results.
 
 2
-write a program that that creates four fucntions; addition, subtraction,
+write a program that that creates four functions; addition, subtraction,
  multiplication, and division.
 create another file and import the functions, use the functions to run
 arithmetic problems and print them
 
+3
 List Operations:
 Write a Python script that imports the math module and defines a list of numbers.
  Use a list comprehension to calculate the square root of each number and store 
 the results in a new list. Print the original list and the list of square roots.
 
+4
 Importing Variables:
 Create a Python script that defines variables for your name, age, and location. 
 Import these variables into another script and print a message using the imported
  variables to introduce yourself.
 
+5
 Dictionaries and Imports:
 Define a dictionary with information about books, such as titles and authors.
  Save this dictionary in a file called books.py. In a new script, import the
  dictionary from books.py and use it to print details about a specific book.
 
+6
 Module-Based Data Processing:
 Create a Python module named data_generator.py that contains a function to 
 generate a list of 20 random numbers between 1 and 100. In a separate script, 
@@ -34,6 +38,7 @@ import the data_generator module and use the generated data to create two lists
  using list comprehensions: one with numbers less than 50 and another with numbers
  greater than or equal to 50. Print all three lists.
 
+7
 Importing Temperature Converter:
 Write a Python script that imports a module named temperature_converter.py.
  This module contains functions to convert between Celsius and Fahrenheit
@@ -41,6 +46,7 @@ Write a Python script that imports a module named temperature_converter.py.
 in one unit to the other. Ensure that error handling for invalid input is
  handled within the temperature_converter module.
 
+8
 Enhancing User Profiles:
 Define a dictionary that represents a user's profile with keys for name, age,
  email, and city. Create a Python module named user_profile.py that contains a 
@@ -49,6 +55,7 @@ function to import the user's profile. In a separate script, import the
  number, and update the dictionary with the new data. Finally, print the updated
  profile.
 
+9
 Importing Number Guessing Game:
 Create a Python script that imports a module named number_game.py. This 
 module generates a random number between 1 and 100 and implements a guessing

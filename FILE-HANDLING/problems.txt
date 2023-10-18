@@ -30,7 +30,11 @@ Write a program that reads a text file and removes all the blank lines from it.
 Create a program that searches for a specific word in a text file and counts its occurrences.
 
 10
+Implement a program that compresses a text file using a compression algorithm and saves the compressed data to another file.
+
+10
 Write a script that renames a file from one name to another.
+use conditionals to handle error with files, do not use try and except
 
 
 Intermediate Problems:
